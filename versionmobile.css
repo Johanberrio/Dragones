@@ -1,0 +1,69 @@
+@media (max-width:600px) {
+
+
+    #lateral{
+      
+        display: inline-table;
+      }
+      
+      nav{
+        display:block;
+      }
+
+      #main,#secundaria,#lateral, nav{
+        
+        padding: 4%;
+        font-size: 0.8em;
+      }
+    
+
+      img {
+          width:250px ;
+      }
+
+      ul li {
+        
+        margin:0 auto;
+        
+      }
+
+      #barrabusqueda{
+        
+        justify-content: center;
+        margin:0 auto;
+        text-align: center;
+        margin-top: 5px;
+      }
+
+      #contenedorfecha{
+        display: none;
+        font-size: 0.1em;
+        margin-bottom: 0;
+      }
+
+      #titulologo{
+        width: 60px;
+        height: 30px;
+        justify-content: center;
+        margin:0 auto;
+        padding: 0;
+      } 
+
+      #contenedor{
+        width: 60px;
+        height: 60px;
+        justify-content: center;
+        margin:0 auto;
+      }
+
+      #logo{
+        width: 50px;
+        height: 50px;
+        justify-content: center;
+        margin:0 auto;
+        padding: 0
+      };
+    }
+
+
+    

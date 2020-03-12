@@ -1,0 +1,67 @@
+@media (max-width:800px) and (min-width:600px) {
+
+
+    #lateral{
+      
+        display: inline-table;
+      }
+      
+      nav{
+        display:block;
+        
+      }
+
+      #main,#secundaria,#lateral, nav{
+        
+        padding: 4%;
+        font-size: 0.9em;
+      }
+    
+
+      img {
+          width:350px ;
+      }
+
+      ul{
+        justify-content: center;
+      }
+
+      #barrabusqueda{
+        
+        justify-content: center;
+        margin:0 auto;
+        text-align: center;
+        margin-top: 10px;
+      }
+
+      #contenedorfecha{
+        display: none;
+        font-size: 0.3em;
+      }
+
+      #titulologo{
+        width: 70px;
+        height: 35px;
+        justify-content: center;
+        margin:0 auto;
+        padding: 0;
+      } 
+
+      #contenedor{
+        width: 60px;
+        height: 60px;
+        justify-content: center;
+        margin:0 auto;
+      }
+
+      #logo{
+        width: 60px;
+        height: 60px;
+        justify-content: center;
+        margin:0 auto;
+        padding: 0
+      };
+    }
+
+
+    
