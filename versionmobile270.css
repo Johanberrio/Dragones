@@ -1,0 +1,115 @@
+@media screen and (max-width:320px) and (min-width:270px) {
+
+    nav{
+    
+      font-size: 11px;
+      max-width: 320px;
+      width: 100%;
+      flex:1;
+      display: block;
+    }
+    
+    #contenedor{
+      width: 100%;
+    }
+    
+    #logo{
+      width: 30px;
+      height: 30px;
+      justify-content: center;
+      margin:0 auto;
+      padding:5px;
+    }
+    
+    #titulologo{
+      width: 50px;
+      height: 20px;
+      justify-content: center;
+      margin:0 auto;
+      padding: 0;
+    } 
+    
+    #contenedorul{
+      width: 100%;
+    }
+     
+    nav ul{
+      display: block;
+      text-align: center;
+      margin-top: 5px;
+      padding-top: 5px;
+    }
+    
+    nav li{
+      padding-right: 40px;
+    }
+    
+    #barrabusqueda{
+        
+      justify-content: center;
+      text-align: center;
+      margin-top: 3px;
+      padding-left:0;
+    }
+    
+    #contenedorfecha{
+      margin:0 auto;
+      text-align: center;
+      display: none;
+    }
+    
+    #main,#secundaria,#lateral{
+      margin: 10px;
+      padding: 10px;
+      font-size: 11px;
+    }
+    
+    #main{
+    
+      width: 80%;
+    }
+    
+    #lateral{
+          
+      display: inline-table;
+    }
+    
+    img {
+      width:160px ;
+    }
+    
+    .alturasdragones{
+      height: 120px;
+    }
+    
+    .imagenesfavoritos{
+      width: 80px;
+      height: 80px;
+    }
+    
+    iframe{
+      width: 230px;
+      height: 140px;
+    }
+    
+    footer{
+      font-size: 11px;
+      max-width: 320px;
+      width: 100%;
+      flex:1;
+      display: block;
+    }
+    
+    footer ul{
+      display: block;
+      text-align: center;
+      margin-top: 0;
+    }
+    
+    footer ul li {
+    
+      margin-right: 40px;
+    }
+    
+      };
+        

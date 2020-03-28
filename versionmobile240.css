@@ -1,0 +1,118 @@
+@media screen and (max-width:270px) and (min-width:0px) {
+
+    nav{
+    
+      font-size: 9px;
+      /*max-width: 270px;*/
+      width: 105%;
+      flex:1;
+      display: block;
+    }
+    
+    #contenedor{
+      width: 100%;
+    }
+    
+    #logo{
+      width: 20px;
+      height: 20px;
+      justify-content: center;
+      margin:0 auto;
+      padding:5px;
+    }
+    
+    #titulologo{
+      width: 40px;
+      height: 20px;
+      justify-content: center;
+      margin:0 auto;
+      padding: 0;
+    } 
+    
+    #contenedorul{
+      width: 100%;
+    }
+     
+    nav ul{
+      display: block;
+      text-align: center;
+      margin-top: 5px;
+      padding-top: 5px;
+    }
+    
+    nav li{
+      padding-right: 40px;
+    }
+    
+    #barrabusqueda{
+        
+      justify-content: center;
+      text-align: center;
+      margin-top: 3px;
+      padding-left:0;
+    }
+    
+    #contenedorfecha{
+      margin:0 auto;
+      text-align: center;
+      display: none;
+    }
+    
+    #main,#secundaria,#lateral{
+      margin: 10px;
+      padding: 10px;
+      font-size: 9px;
+    }
+    
+    #main{
+    
+      width: 90%;
+    }
+    
+    #lateral{
+          
+      display: inline-table;
+      
+    }
+
+   
+    
+    img {
+      width:140px ;
+    }
+    
+    .alturasdragones{
+      height: 100px;
+    }
+    
+    .imagenesfavoritos{
+      width: 60px;
+      height: 60px;
+    }
+    
+    iframe{
+      width: 200px;
+      height: 110px;
+    }
+    
+    footer{
+      font-size: 9px;
+      max-width: 270px;
+      width: 100%;
+      flex:1;
+      display: block;
+    }
+    
+    footer ul{
+      display: block;
+      text-align: center;
+      margin-top: 0;
+    }
+    
+    footer ul li {
+    
+      margin-right: 40px;
+    }
+    
+      };
+        
