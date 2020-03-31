@@ -10,6 +10,7 @@
     nav{
         background-color:#680606;
         display: flex;
+        justify-content: space-between;
     
     }
 
@@ -62,7 +63,8 @@
     #contenedorfecha {
     
     display: flex; 
-    margin-left: 400px;
+    /*margin-left: 400px;*/
+    margin-right: 10px;
     justify-content: center;
     align-items: center;
     
